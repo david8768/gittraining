@@ -6,9 +6,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using GitTraining.Models;
+using gittraining.Models;
 
-namespace GitTraining.Controllers
+namespace gittraining.Controllers
 {
     [Authorize]
     public class ManageController : Controller

@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(GitTraining.Startup))]
-namespace GitTraining
+[assembly: OwinStartupAttribute(typeof(gittraining.Startup))]
+namespace gittraining
 {
     public partial class Startup
     {

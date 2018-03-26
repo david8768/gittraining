@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace GitTraining.Models
+namespace gittraining.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

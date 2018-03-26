@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using GitTraining.Models;
+using gittraining.Models;
 
-namespace GitTraining
+namespace gittraining
 {
     public class EmailService : IIdentityMessageService
     {
