@@ -10,6 +10,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using gittraining.Models;
 
+// test23
 namespace gittraining.Controllers
 {
     [Authorize]
