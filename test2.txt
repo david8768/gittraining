@@ -1,2 +1,1 @@
-gittraining
- test2
+test2
